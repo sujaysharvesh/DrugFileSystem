@@ -1,4 +1,4 @@
-# 💊 PharmaTrack - Drug Management System
+# 💊 PharmaTrack - Drug Management Syste
 
 ![System Architecture](https://i.imgur.com/JyTgFQl.png)  
 *A secure, AI-powered platform for pharmaceutical inventory and prescription management*
